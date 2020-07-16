@@ -1,0 +1,6 @@
+/* home.wxss */
+.colorl{
+    color: red;
+    text-align: center;
+    font-size: 60rpx;
+}
